@@ -1,0 +1,34 @@
+{
+  "name": "wwwordle",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.0.11"
+  },
+  "main": "vite.config.js",
+  "dependencies": {
+    "esbuild": "^0.24.2",
+    "nanoid": "^3.3.8",
+    "picocolors": "^1.1.1",
+    "postcss": "^8.4.49",
+    "rollup": "^4.30.1",
+    "source-map-js": "^1.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaAbes/M521_Abessolo_Joshua.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshuaAbes/M521_Abessolo_Joshua/issues"
+  },
+  "homepage": "https://github.com/JoshuaAbes/M521_Abessolo_Joshua#readme",
+  "description": ""
+}
